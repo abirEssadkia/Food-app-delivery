@@ -1,0 +1,44 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "firstname": "abir",
+        "lastname": "ES-SADKIA",
+        "email": "essadkia@gmail.com",
+        "situation": false ,           //true:delivery && false:client
+        "password": "hfdfjklkq",
+        "phone-number":"0630481676",
+        "adresse":"position",
+        "image":""
+      }
+      
+    ],
+    "restaurants": [
+        {
+          "id": 1,
+          "name": "KFC",
+          "adresse":"position",
+          "about": "",
+          "review":"",
+          "image": ""
+        }    
+      ],
+      "menu": [
+        {
+          "id": 1,
+          "restau-id":1,
+          "name": "twister box",
+          "price":"78dh",
+          "about": "",
+          "review":"",
+          "image":""
+        }    
+      ],
+      "orders":[
+        {
+            "id":1,
+            "menu-id":1,
+            "user-id":1
+        }
+      ]
+  }
