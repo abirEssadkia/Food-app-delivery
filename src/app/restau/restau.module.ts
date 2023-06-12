@@ -3,6 +3,7 @@ import { CommonModule } from '@angular/common';
 import { ListComponent } from './list/list.component';
 import { DetailsComponent } from './details/details.component';
 import { FiltersComponent } from './filters/filters.component';
+import { SearchBarreComponent } from './search-barre/search-barre.component';
 
 
 
@@ -10,7 +11,8 @@ import { FiltersComponent } from './filters/filters.component';
   declarations: [
     ListComponent,
     DetailsComponent,
-    FiltersComponent
+    FiltersComponent,
+    SearchBarreComponent
   ],
   imports: [
     CommonModule

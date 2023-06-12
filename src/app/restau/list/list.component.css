@@ -1,0 +1,215 @@
+#main-content .header-star h1, #main-content .header-star h4,
+#main-content .header-star h3{
+position:relative;
+padding-bottom:0;
+margin-bottom:50px;
+        font-size: 26px;
+}
+#main-content .header-star h1:after, #main-content .header-star h4:after,
+#main-content .header-star h3:after{
+content: '';
+background-image:url('https://thecolony.urban8food.com/wp-content/uploads/sites/2/2017/06/arrow-decoration.png');
+background-size:contain;
+background-position:center;
+background-repeat:no-repeat;
+position:absolute;
+top:100%;
+left:0;
+right:0;
+margin:10px auto 0;
+width:300px;
+height:17px;
+max-width:100%;
+}
+#restaurant-categories .et_pb_blurb{
+position:relative;
+min-height:350px;
+display:flex;
+align-items:center;
+justify-content:center;
+transition:.5s;
+top:0;
+}
+#restaurant-categories .et_pb_blurb_content{
+transition:.5s;
+height:200px;
+width:200px;
+background-color:white;
+border-radius:500px;
+display:flex;
+align-items:center;
+justify-content:center;
+box-shadow:0px 3px 6px rgba(0, 0, 0, 0.55);
+}
+#restaurant-categories .et_pb_blurb_content a{
+display:none;
+color:white;
+border-bottom: 2px dashed rgba(255,255,255,.75);
+}
+#restaurant-categories .et_pb_blurb:hover .et_pb_blurb_content a{
+transform: rotateY(180deg);
+display:block;
+}
+#restaurant-categories .et_pb_blurb_content h4,
+#restaurant-categories .et_pb_blurb_content h2{
+padding:0;
+color:#e94e3d;
+font-size:38px;
+}
+#restaurant-categories .et_pb_blurb_content h4 a, #restaurant-categories .et_pb_blurb_content h2 a{
+display:block;
+color:#e94e3d;
+border-bottom: none;
+} 
+#restaurant-categories .et_pb_blurb:hover .et_pb_blurb_content h4 a,
+#restaurant-categories .et_pb_blurb:hover .et_pb_blurb_content h2 a{
+transform: rotateY(180deg);
+color:white;
+}
+#post-7445 .header-content img {
+    background: transparent;
+    margin-top: -40px;
+    padding-bottom: 0;
+min-height: 380px;
+}
+#restaurant-categories .et_pb_blurb:hover .et_pb_blurb_content{
+transform: rotateY(180deg);
+background-color:#e94e3d;
+}
+#restaurant-categories .et_pb_blurb_content p a{
+max-width:100px;
+margin:auto;
+}
+#restaurant-categories{
+padding:0;
+}
+#restaurant-features .et_pb_content{
+position:relative;
+}
+#restaurant-features .et_pb_main_blurb_image{
+position:absolute;
+width:100%;
+text-align:center;
+}
+#restaurant-features .et_pb_blurb_container{
+padding-top:100px;
+}
+#main-content .et_pb_animation_top.et-animated{
+animation:none;
+}
+#urban-8-picks .et_pb_main_blurb_image{
+margin-bottom:0;
+}
+#urban-8-picks .et_pb_main_blurb_image img{
+border-top-left-radius: 14px;
+border-top-right-radius: 14px;
+width:100%;
+}
+#urban-8-picks .et_pb_blurb_container{
+padding:25px;
+}
+#urban-8-picks .et_pb_blurb{
+border-radius:15px;
+}
+#urban-8-picks .et_pb_blurb h3{
+font-size:28px;
+}
+#urban-8-picks-logo-container{
+padding:0;
+}
+#urban-8-picks-logo{
+position:absolute;
+left:0;
+right:0;
+}
+#urban-8-picks-logo img{
+max-width:230px;
+max-height:230px;
+}
+#urban-8-picks{
+padding-bottom:50px;
+margin-bottom:50px;
+}
+#restaurant-reviews .et_pb_slide_description{
+text-shadow:none;
+padding-top:0;
+padding-bottom:0;
+}
+#restaurant-reviews .et_pb_slide{
+background-color:transparent;
+box-shadow:none;
+}
+#restaurant-reviews .et_pb_slider .et-pb-arrow-next{
+right:22px;
+opacity:1;
+}
+#restaurant-reviews .et_pb_slider .et-pb-arrow-prev{
+left:22px;
+opacity:1;
+}
+body, input, textarea, select {
+    font-family: 'Open Sans', Helvetica, Arial, Lucida, sans-serif;
+}
+#restaurant-categories .et_pb_blurb_content {
+    transition: .5s;
+    height: 200px;
+    width: 200px;
+    background-color: white;
+    border-radius: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.55);
+}
+#top-menu a, .et-social-icon a, .posted_in a, a, a:hover, ins {
+    text-decoration: none;
+}
+#restaurant-categories .et_pb_blurb:hover .et_pb_blurb_content a {
+    transform: rotateY(180deg);
+    display: block;
+  text-align:center;
+}
+
+
+
+
+.et_pb_gutters1 .et_pb_column_1_4{
+  width:25%;
+}
+.et_pb_column {
+    float: left;
+    background-position: center;
+    background-size: cover;
+}
+restaurant-categories .et_pb_blurb {
+    position: relative;
+    min-height: 350px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: .5s;
+    top: 0;
+    background-size: cover!important;
+}
+#restaurant-categories .et_pb_blurb {
+    position: relative;
+    min-height: 350px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: .5s;
+    top: 0;
+    background-size: cover;
+}
+.et_pb_blurb_0.et_pb_blurb {
+    background-image: url(https://thecolony.urban8food.com/wp-content/uploads/2018/04/Burger-Craft-139.jpg);
+}
+.et_pb_blurb_1.et_pb_blurb {
+    background-image: url(https://thecolony.urban8food.com/wp-content/uploads/2018/04/Burger-Craft-123.jpg);
+}
+.et_pb_blurb_2.et_pb_blurb {
+    background-image: url(https://thecolony.urban8food.com/wp-content/uploads/2018/04/Burger-Craft-72.jpg);
+}
+.et_pb_blurb_3.et_pb_blurb {
+    background-image: url(https://thecolony.urban8food.com/wp-content/uploads/2018/04/Burger-Craft-44.jpg);
+}
